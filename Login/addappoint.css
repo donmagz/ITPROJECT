@@ -1,0 +1,17 @@
+body {
+    background-image: url("../img/body.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+}

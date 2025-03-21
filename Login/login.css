@@ -1,0 +1,45 @@
+body {
+    background-image: url("../img/body.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: maroon;
+}
+
+.navbar-brand img {
+    height: 50px;
+}
+
+.container-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+}
+
+.btn-login {
+    background-color: green;
+    color: white;
+}
+
+.btn-login:hover {
+    background-color: #218838;
+}
+
+.link {
+    display: block;
+    margin-top: 10px;
+    color: blue;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
